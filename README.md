@@ -22,7 +22,7 @@ The dataset consists of Monet paintings provided by Kaggle in TFRecord format. T
 
 ## Project Structure
 
-- `Monet_GAN_Project.ipynb` — Jupyter notebook containing:
+- `Generative-Dog-Images.ipynb` — Jupyter notebook containing:
   - Problem description
   - Exploratory Data Analysis (EDA)
   - Model architecture and training procedures
