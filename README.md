@@ -34,8 +34,8 @@ The dataset consists of Monet paintings provided by Kaggle in TFRecord format. T
 - `README.md` — This project overview and instructions.
 
 ---
-
-https://github.com/abdallahmohammed2025/Generative-Dog-Images
+## Getting Started
+Clone this repository: https://github.com/abdallahmohammed2025/Generative-Dog-Images
 
 ## Installation & Setup
 
